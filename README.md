@@ -14,7 +14,8 @@
 
 ### Create Student Repositories
 
-* Create a private template repository within the Organization
+* Create a public or private template repository within the Organization
+  * The student repositories are always created as private
 * Create a CSV file of students:
   ```
   Firstname1 Lastname1,GitHubUsername1
@@ -42,7 +43,8 @@
 
 ### Create Team Repositories
 
-* Create a private template repository within the Organization
+* Create a public or private template repository within the Organization
+  * The team repositories are always created as private
 * Create a CSV file of Teams:
   ```
   TeamName1,GitHubUsername1_1,GitHubUsername1_2,...,GitHubUsername1_N
